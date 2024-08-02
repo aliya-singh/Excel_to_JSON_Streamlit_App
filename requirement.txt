@@ -1,0 +1,8 @@
+streamlit
+firebase_admin
+pandas
+json
+BytesIO
+psycopg2
+json
+ast
